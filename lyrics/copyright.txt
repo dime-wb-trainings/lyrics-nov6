@@ -1,4 +1,3 @@
-How do we make sure **copyrighted content** doesn't get posted to this public repo?
+How do we make sure copyrighted content doesn't get posted to this public repo?
 
-> [!WARNING]
-> ABBA's songs are protected by copyright, primarily held by the copyright holders like Universal Music and Polar Music.
+ABBA's songs are protected by copyright, primarily held by the copyright holders like Universal Music and Polar Music.
